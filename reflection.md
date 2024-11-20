@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Avery Allen
+Sudent Email:  avallen@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I understand how to use Playwright to scrape the web. I have learned how to inspect each text to indetify what tag I should be using. On top of that I have learned the query_selector function. Something new I learned this assignment specificaly was the Menu Item. I thought that this was very interesting because it is an already defined function through data class which I have never used. The only thing I struggled was was using the loop to get the text under each description, so I used the solution where I learned I should loop over each row and add each item to the dictionary.
